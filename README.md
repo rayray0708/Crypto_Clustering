@@ -10,7 +10,7 @@ To view the raw CSV file, please navigate to the "Resources" and select "crypto_
 
 ## Installations
 
-The following dependencies should be downloaded in order to run the code and display the graphs:\
+The following dependencies should be downloaded in order to run the code and display the graphs. Please copy the exact code I've provided here to your code editor to use these dependencies:\
 -Pandas: (1) pip install pandas, (2) import pandas as pd\
 -holoviews:  (1) pip install holoviews hvplot, (2) import holoviews as hv\
 -hvPlot: import hvplot.pandas\
