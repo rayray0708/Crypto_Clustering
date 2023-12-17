@@ -24,7 +24,7 @@ Notice that these were the libraries specifically used:
 2) HoloViews
 3) Scikit-learn
 
-### Cluster Cryptocurrencies with K-means Using the Original Data
+### Cluster Cryptocurrencies with K-means Using the Original Data vs. PCA data
 ![Clusters using K-means](<Screenshot 2023-12-17 at 9.14.52 pm.png>)
 
 Using K-means algorithm, 4 clusters were created using the original data. This graph is displayed for comparison purposes with the below graph that was created using the Principal Component Analysis.
