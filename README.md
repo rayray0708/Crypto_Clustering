@@ -19,9 +19,9 @@ The following dependencies should be downloaded in order to run the code and dis
 -PCA: from sklearn.decomposition import PCA\
 -StandardScaler: from sklearn.preprocessing import StandardScaler
 
-Notice that these were the libraries specifically used:\
-1) Pandas\
-2) HoloViews\
+Notice that these were the libraries specifically used:
+1) Pandas
+2) HoloViews
 3) Scikit-learn
 
 ### Cluster Cryptocurrencies with K-means Using the Original Data
